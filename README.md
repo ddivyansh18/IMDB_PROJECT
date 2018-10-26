@@ -1,0 +1,1 @@
+An IMDB scrapper made using python. The project uses OMDB API and manual scrapping (without beautiful soup) to fetch details from IMDB. Once the user enters the name of the movie, details of same are fetched from JSON file which is then displayed to the user.The program can handle invalid inputs and can recover from exceptions easily.
